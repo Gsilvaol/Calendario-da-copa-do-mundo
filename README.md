@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Um pequeno projeto de um calendário da copa do mundo. 
 muito interessante saber como o Java Script interage com o HTML e CSS.
 
-- [visite o projeto online] (https://gsilvaol.github.io/nlw-setup/)
+- [visite o projeto online] (https://gsilvaol.github.io/Calendario-da-copa-do-mundo/)
